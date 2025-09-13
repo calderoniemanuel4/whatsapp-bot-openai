@@ -1,4 +1,7 @@
 """
+# REPOSITORIO EN Git
+https://github.com/calderoniemanuel4/whatsapp-bot-openai.git
+
 # Configurá tus datos:
 PROJECT_ID="whatsapp-bot-emanuel"           # ← reemplazá por tu ID en GCP
 REGION="us-central1"               # región donde desplegar
