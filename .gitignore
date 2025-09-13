@@ -1,0 +1,20 @@
+# .gitignore
+# Entornos virtuales
+.venv/
+env/
+
+# Configuracin local
+.env
+*.sh
+
+# Credenciales 
+service_account.json
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.log
+*.sqlite
+
+# VS Code
+.vscode/

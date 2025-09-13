@@ -1,0 +1,6 @@
+functions-framework==3.5.0
+twilio==9.3.3
+openai==1.50.2
+httpx==0.27.2
+gspread==6.0.0
+google-auth==2.35.0
